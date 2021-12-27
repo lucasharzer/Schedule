@@ -6,22 +6,22 @@ Usando schedule, biblioteca do python usada para agendamento de tarefas para hum
 
 # Instalação
 
-´´´bash
+```bash
       pip install schedule
-´´´
+```
 
 
 # Execução 
 
 - Testando a função
- ´´´bash
+ ```bash
       python teste.py
- ´´´
+ ```
  
  - Rodando o programa completamente
- ´´´bash
+ ```bash
      python execução.py
- ´´´
+ ```
  
  # Resultado
  
